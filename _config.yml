@@ -1,1 +1,87 @@
-theme: jekyll-theme-tactile
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Umesh Kumar
+title: WordPress Developer
+email: umeshsingla05[AT]gmail.com
+website: codechutney.com
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: kmr_umesh
+github_username:  UmeshSingla
+
+# Additional icon links
+additional_links:
+- title: WordPress StackExchange
+  icon: fas fa-stack-exchange
+  url: https://wordpress.stackexchange.com/users/32466/kumar
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello there, my name's Umesh Kumar working as a WordPress Developer. I'm mostly involved with Back-end development but I do have an experience working on front-end too. I play well along with team as well as an individual contributor.
+
+  I am most skilled in: <mark>WordPress [PHP, JS, CSS, APIs, Github, SVN]</mark> and have some experience working in bbPress [Migration].
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: rtCamp
+        link: rtCamp.com
+        sub_title: WordPress Developer
+        caption: Februrary 2013 - March 2014
+        description: | # this will include new lines to allow paragraphs
+            My role at rtCamp mostly included working on client theme, internal projects along with learning being new to WordPress.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Kurukshetra University
+        caption: 2008 - 2012
+        sub_title: B.Tech [Information Technology]
+        description: | # this will include new lines to allow paragraphs
+          During my time at college I started with Web Application [WAMP stack] development and LAN gaming along with attending my lectures sometime.
+
+          It was most fun days staying in hostel at campus, playing Dota 2 overnight and then attending lectures in the morning. And then in last two years of my degree,
+          I picked up desktop application develpment of our Training and Placement cell.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Hiking/Camping
+      - Acryling Painting - It's a brand new hobby!!
+      - Terrace Garden
+      - Digital Nomading [Only sometimes]
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
