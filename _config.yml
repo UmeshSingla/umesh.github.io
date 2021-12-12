@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: sproogen/modern-resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -12,7 +12,7 @@ email: umeshsingla05[AT]gmail.com
 website: codechutney.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: kmr_umesh
@@ -21,7 +21,7 @@ github_username:  UmeshSingla
 # Additional icon links
 additional_links:
 - title: WordPress StackExchange
-  icon: fas fa-stack-exchange
+  icon: fab fa-stack-exchange
   url: https://wordpress.stackexchange.com/users/32466/kumar
 
 # Google Analytics and Tag Manager
@@ -73,7 +73,7 @@ content:
       - Digital Nomading [Only sometimes]
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
