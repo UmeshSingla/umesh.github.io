@@ -34,22 +34,24 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello there, my name's Umesh Kumar and I work as a WordPress Developer. I'm mostly involved with Back-end development,or sometimes with front-end as well. I play well along in team and equally well as an individual contributor.
+  Hello there, my name's Umesh Kumar and I work as a WordPress Developer. I'm mostly involved with Back-end development, or sometimes with front-end as well. 
+  I play well along in team and equally well as an individual contributor.
 
-  I am most skilled in: <mark>WordPress [PHP, JS, CSS, APIs, Github, SVN]</mark> and have some experience working in bbPress [Migration].
+  I am most skilled in: <mark>WordPress [PHP, JS, CSS, APIs, Github, SVN]</mark> and have some experience working in bbPress as well [it mostly included a massive migration].
 
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Incsub [ WPMU DEV/ CampusPress
+        title: Incsub
         link: incsub.com
-        sub_title: WordPress Developer
+        sub_title: WordPress Developer [WPMU DEV/ Campuspress]
         caption: April 2014 - ongoing
         description: | # this will include new lines to allow paragraphs
           I've spent a majority of my development career here at Incsub so far, and it's been a great learning experience all along. I've worked on a variety of projects
-          including the most famous WP Smush [I started when Yahoo api went away].
+          including the most famous WP Smush [I started when Yahoo API went away].
+
           I've been invloved in Plugin Development [ Development, Releases], Theme Development, API integration and bbPress migration.
 
       - layout: left
@@ -58,7 +60,9 @@ content:
         sub_title: WordPress Developer
         caption: Februrary 2013 - March 2014
         description: | # this will include new lines to allow paragraphs
-            My role at rtCamp mostly included working on client theme, internal projects along with learning being new to WordPress.
+            My role at rtCamp mostly included working on client theme, internal projects along with learning, being new to WordPress.
+          
+          Highlight of the role was learning and contributing to WordPress core.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -68,7 +72,10 @@ content:
         caption: 2008 - 2012
         sub_title: B.Tech [Information Technology]
         description: | # this will include new lines to allow paragraphs
-          During my time at college I started with LAN gaming - Counter Strike was first and then it was farming and building castle in Age of Empires and then came Dota 2. Our college hostel was fun and taught me great team work! I did attend lectures sometimes, also I did pass.
+          During my time at college I started with LAN gaming - Counter Strike was first and then it was farming and building castle in Age of Empires and then came Dota 2. 
+          
+          Hostel was fun and taught me great team work! Um I did attend lectures sometime, and I did pass my degree.
+
           In final years of my degree I worked on desktop application of our Training and Placement cell along with a small web application for Internet access management of the college students.
 
   - title: A Little More About Me
