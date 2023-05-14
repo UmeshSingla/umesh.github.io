@@ -34,25 +34,36 @@ google_analytics: "UA-34239627-1"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello there, my name's Umesh Kumar and I work as a WordPress Developer. I'm mostly involved with Back-end development, or sometimes with front-end as well. 
-  I play well along in team and equally well as an individual contributor.
+  Hello there, my name's Umesh Kumar and I'm currently working as a WordPress Developer at CampusPress subsidiary of Incsub, LLC. My current role involves working on custom themes for Educational Institutions which includes handling of front-end as well as back-end development.
+  I play well along in team and do well as an individual contributor.
 
   I am most skilled in: <mark>WordPress [PHP, JS, CSS, APIs, Github, SVN]</mark> and have some experience working in bbPress as well [it mostly included a massive migration].
 
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Incsub
         link: incsub.com
-        sub_title: WordPress Developer [WPMU DEV/ Campuspress]
-        caption: April 2014 - ongoing
+        sub_title: Theme Developer [Campuspress]
+        caption: May 2020 - ongoing
+        description: | # this will include new lines to allow paragraphs
+          In CampusPress team I've been handling Plugin/Theme reviews and updates, along with custom theme development for Educational Institutions.
+          Plugin/Theme review involves looking up for any potential performance or security issues. While custom theme development includes working on client theme developed as a child theme of in-house parent theme.
+          Theme development involves planning and delivery of the project.
+      - layout: left
+        title: Incsub
+        link: incsub.com
+        sub_title: Plugin Developer [WPMU DEV]
+        caption: April 2014 - May 2020
         description: | # this will include new lines to allow paragraphs
           I've spent a majority of my development career here at Incsub so far, and it's been a great learning experience all along. I've worked on a variety of projects
           including the most famous WP Smush [I started when Yahoo API went away].
 
-          I've been invloved in Plugin Development [ Development, Releases], Theme Development, API integration and bbPress migration.
+          As a part of DEV team I've actively worked on Plugin development which included adding new features, bug fixes and handling plugin releases along with taking up support requests occasionally.
+          I started with working on MarketPress( A WooCommerce alternative, now retired ) bitcoin payment gateway integration, then helped with Pro Sites plugin. Further I took up Smush and worked on multiple major releases.
+
       - layout: left
         title: rtCamp
         link: rtCamp.com
@@ -70,21 +81,22 @@ content:
         caption: 2008 - 2012
         sub_title: B.Tech [Information Technology]
         description: | # this will include new lines to allow paragraphs
-          During my time at college I started with LAN gaming - Counter Strike was first and then it was farming and building castle in Age of Empires and then came Dota 2. 
+          During my time at college I was very much into LAN gaming - Counter Strike was first and then it was farming and building castle in Age of Empires and then came Dota 2. 
           
-          Hostel was fun and taught me great team work! Um I did attend lectures sometime, and I did pass my degree.
+          Hostel was fun and taught me great team work!
 
-          In final years of my degree I worked on desktop application of our Training and Placement cell along with a small web application for Internet access management of the college students.
+          In 3rd and 4th year of my degree I worked on Web application for our Training and Placement cell along with a small web application for Internet access management of the college students.
+          The application designed for the Placement cell was in use for at least 3-4 years until when they finally got a better application to work with.:D 
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in programming some of my other interests and hobbies are:
       - Acryling Painting - It's a brand new hobby!!
-      - Hiking/Camping, and I'm a bit into fitness.
+      - Yoga, Meditation
+      - Hiking/Camping
       - Terrace Garden
       - Digital Nomading [Well, sometimes]
-      - Cooking, ( only as a hobby ;))
 
 # Footer
 footer_show_references: false
