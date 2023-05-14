@@ -51,7 +51,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           In CampusPress team I've been handling Plugin/Theme reviews and updates, along with custom theme development for Educational Institutions.
           Plugin/Theme review involves looking up for any potential performance or security issues. While custom theme development includes working on client theme developed as a child theme of in-house parent theme.
-          Theme development involves planning and delivery of the project.
+          Current role involves planning and delivery of the project.
       - layout: left
         title: Incsub
         link: incsub.com
@@ -92,11 +92,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in programming some of my other interests and hobbies are:
-      - Acryling Painting - It's a brand new hobby!!
-      - Yoga, Meditation
-      - Hiking/Camping
-      - Terrace Garden
-      - Digital Nomading [Well, sometimes]
+      - Acrylic Painting - It's a brand new hobby!!
+      - Yoga, Meditation - To be able to keep myself going. 
+      - Hiking/Camping - This seems to be a bit of past maybe:D, I haven't been to a hike for quite some time now.
+      - Terrace Garden - Love it, though I wish my terrace was a lot bigger to accommodate for more plants.
 
 # Footer
 footer_show_references: false
