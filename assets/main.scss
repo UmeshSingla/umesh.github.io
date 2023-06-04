@@ -4,8 +4,27 @@
 
 @import 'modern-resume-theme';
 
-ui.icons {
-	a:before {
-		box-shadow: inset 0 0 0 35px #bd3a43;
+html,body {
+	background-color: #eff2ff;
+}
+
+h1, h3 {
+	color: #213fd4;
+}
+
+ul.icons {
+	a.button {
+
+		&:before {
+			box-shadow: inset 0 0 0 35px #213fd4 !important;
+		}
+
+		&:hover {
+			color: #213fd4;
+
+			&:before {
+				box-shadow: inset 0 0 0 2px #213fd4;
+			}
+		}
 	}
 }

@@ -17,12 +17,16 @@ darkmode: never
 # Social links
 twitter_username: kmr_umesh
 github_username:  UmeshSingla
+wordpress_username:  Umeshsingla
 
 # Additional icon links
 additional_links:
 - title: WordPress StackExchange
   icon: fab fa-stack-exchange
   url: https://wordpress.stackexchange.com/users/32466/kumar
+- title: WordPress.org
+  icon: fab fa-wordpress
+  url: https://profiles.wordpress.org/Umeshsingla/
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -92,10 +96,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in programming some of my other interests and hobbies are:
-      - Acrylic Painting - It's a brand new hobby!!
-      - Yoga, Meditation - To be able to keep myself going. 
-      - Hiking/Camping - This seems to be a bit of past maybe:D, I haven't been to a hike for quite some time now.
-      - Terrace Garden - Love it, though I wish my terrace was a lot bigger to accommodate for more plants.
+      - Acrylic Painting  - It's a brand new hobby!!
+      - Yoga, Meditation  - To be able to keep myself going. 
+      - Hiking/Camping    - This seems to be a bit of past maybe:D, I haven't been to a hike for quite some time now.
+      - Terrace Garden    - Love it, though I wish my terrace was a lot bigger to accommodate for more plants.
 
 # Footer
 footer_show_references: false
