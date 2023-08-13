@@ -4,8 +4,15 @@
 
 @import 'modern-resume-theme';
 
+* {
+	-webkit-print-color-adjust: exact !important;   /* Chrome, Safari 6 – 15.3, Edge */
+	color-adjust: exact !important;                 /* Firefox 48 – 96 */
+	print-color-adjust: exact !important;           /* Firefox 97+, Safari 15.4+ */
+}
+
 html,body {
 	background-color: #eff2ff;
+	print-color-adjust: exact !important;
 }
 
 h1, h3, h4 {
@@ -13,6 +20,7 @@ h1, h3, h4 {
 }
 
 ul.icons {
+	print-color-adjust: exact !important;
 	a.button {
 
 		&:before {

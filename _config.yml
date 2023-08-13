@@ -37,12 +37,15 @@ google_analytics: "UA-34239627-1"
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hello there, my name's Umesh Kumar and I'm currently working as a WordPress Developer at CampusPress - subsidiary of Incsub, LLC. My current role involves working on custom themes for Educational Institutions which includes handling of front-end as well as back-end development.
-  I play well along in team as well as an individual contributor.
+about_content: | 
+  Hello there, my name's Umesh Kumar and I'm currently working as a Plugin/Theme Back-end Developer at CampusPress/Incsub, LLC. My current role involves working on custom themes for Educational Institutions which includes handling of back-end as well as front-end development.
+  
+  
+  I am more proficient in back-end development and have a decent experience working on front-end as well. I play well along in team as well as an individual contributor.
+  
 
-  I am most skilled in: <mark>WordPress [PHP, JS, CSS, APIs, Version Control: Git, SVN, Project Management]</mark> and have some experience working in bbPress as well [it mostly included a massive migration].
-  Well versed with tools like JIRA, Bitbucket for managing projects and releases.
+  I am most skilled in: <mark>WordPress [PHP, JS, CSS, API integration, Version Control: Git, SVN, Project Management]</mark> and have some experience working in bbPress as well [it mostly included a massive migration].
+  Well versed with tools like JIRA, Bitbucket for managing projects and releases and a basic knowledge of system side of things. I've used Vagrant and Docker environment for local development.
 
 content:
   - title: Experience
@@ -53,57 +56,60 @@ content:
         link: incsub.com
         sub_title: Theme Developer [Campuspress]
         caption: May 2020 - ongoing
-        description: | # this will include new lines to allow paragraphs
-          In CampusPress team I've been handling Plugin/Theme reviews and updates, along with custom theme development for Educational Institutions.
-          Plugin/Theme review involves looking up for any potential performance or security issues. While custom theme development includes working on client theme developed as a child theme of in-house parent theme.
-          Current role involves planning and delivery of the project, handling weekly release on CampusPress network.
+        description: | 
+          Work involves Plugin/Theme reviews and updates, along with custom theme development using in-house underscore based theme [CampusPress Flex](https://github.com/campuspress/campuspress-flex) as boiler plate.
+          Theme development mainly includes working on back-end such as custom Gutenberg blocks mainly using Advanced Custom Fields Plugin, API integrations, developing custom functionality, setting up Bitbucket Pipeline (CI/CD) for deployments.
+          
+          Current role also involves planning and delivery of the project along with handling weekly release on CampusPress network.
       - layout: left
         title: Incsub
         link: incsub.com
         sub_title: Plugin Developer [WPMU DEV]
         caption: April 2014 - May 2020
-        description: | # this will include new lines to allow paragraphs
-          I've spent a majority of my development career here at Incsub so far, and it's been a great learning experience all along. I've worked on a variety of projects
-          including the most famous WP Smush [I started when Yahoo API went away].
+        description: | 
+          I've spent a majority of my development career here at Incsub, and it's been a great learning experience all along. I've worked on a variety of projects
+          including the popular [WP Smush Plugin](https://wordpress.org/plugins/wp-smushit/) along with it's API development using various image optimization libraries.
 
           As a part of DEV team I've actively worked on Plugin development which included adding new features, bug fixes and handling plugin releases along with handling support requests occasionally as a project owner.
           I started with working on MarketPress( A WooCommerce alternative, now retired ) bitcoin payment gateway integration, then helped with Pro Sites plugin. Further I took up Smush and worked on multiple major releases.
+          
+          One of the challenging project during the tenure was bbPress migration for WPMU DEV site forum. Having around 1.2 million posts with attachments along with additional functionality it was a challenging task ensuring lower downtime.
 
       - layout: left
         title: rtCamp
         link: rtCamp.com
         sub_title: WordPress Developer
         caption: Februrary 2013 - March 2014
-        description: | # this will include new lines to allow paragraphs
-            My role at rtCamp mostly included working on client theme, internal projects along with learning, being new to WordPress.
-            Highlight of the role was learning and contributing to WordPress core.
+        description: | 
+            My role at rtCamp included working on client theme, internal projects mostly involving back-end development with some front-end work.
+            I was a keen learner and contributor to WordPress core.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
-        title: BITS Pilani
+        title: BITS Pilani, India
         caption: 2021 - 2023
-        sub_title: MS Cyber Security - WILP
-        description: | # this will include new lines to allow paragraphs
-          I recently enrolled myself in WILP - Work Integrated Learning Program and completed my Masters in Cyber Security.
+        sub_title: MS - WILP
+        description: |
+          I recently completed my Masters in Science. (WILP - Work Integrated Learning Program)
 
       - layout: left
-        title: Kurukshetra University
+        title: Kurukshetra University, India
         caption: 2008 - 2012
-        sub_title: B.Tech [Information Technology]
-        description: | # this will include new lines to allow paragraphs
-          During my time at college I was very much into LAN gaming - Counter Strike was first and then it was farming and building castle in Age of Empires and then came Dota 2. 
+        sub_title: B.Tech
+        description: |
+          I completed my four years of technical education with Software development as main focus. During my time at college I was very much into LAN gaming - Counter Strike was first and then it was farming and building castle in Age of Empires, Dota 2. 
           
           Hostel was fun and taught me great team work!
 
-          In 3rd and 4th year of my degree I worked on Web application for our Training and Placement cell along with a small web application for Internet access management of the college students.
+          In 3rd and 4th year of my degree I worked on PHP Web application for our Training and Placement cell along with a small web application for Internet access management of the college students.
           The application designed for the Placement cell was in use for at least 3-4 years until when they finally got a better application to work with.:D 
 
   - title: Community Contribution
     layout: text
     content:
-      Time to time I've contributed to community in different ways be it Core Contribution, Organising Meetups/WordCamp or being a speaker. I find pride in owning these [badges on WordPress.org](https://profiles.wordpress.org/umeshsingla/#user-badges)
+      I've been an active Community contributor in different ways. Be it Core Contribution, Organising Meetups/WordCamp, tried my skills as a Speaker. I enjoy helping people on [WordPress Stackexchange](https://wordpress.stackexchange.com/users/32466/kumar) and I find pride in owning these [badges on WordPress.org](https://profiles.wordpress.org/umeshsingla/#user-badges)
 
   - title: A Little More About Me
     layout: text
