@@ -57,10 +57,13 @@ content:
         sub_title: Theme Developer [Campuspress]
         caption: May 2020 - ongoing
         description: | 
-          Work involves Plugin/Theme reviews and updates, along with custom theme development using in-house underscore based theme [CampusPress Flex](https://github.com/campuspress/campuspress-flex) as boiler plate.
-          Theme development mainly includes working on back-end such as custom Gutenberg blocks mainly using Advanced Custom Fields Plugin, API integrations, developing custom functionality, setting up Bitbucket Pipeline (CI/CD) for deployments.
+          As a Theme Developer my role includes:
+            * Reviewing and Updating Plugin/Theme for our in-house network which hosts websites for Universities and Educational Institutions, 
+            * Custom theme development using underscore based theme [CampusPress Flex](https://github.com/campuspress/campuspress-flex) as boiler plate.
           
-          Current role also involves planning and delivery of the project along with handling weekly release on CampusPress network.
+          My job is to convert the Figma/XD designs to a beautiful mobile-first Website along with focus on accessibility. This includes but not limited to working on back-end such as custom Gutenberg blocks mainly using Advanced Custom Fields Plugin, API integrations, developing custom functionality, setting up Bitbucket Pipeline (CI/CD) for deployments.
+          
+          Sometime I take care of planning and delivery of the project along with handling weekly release on CampusPress network.
       - layout: left
         title: Incsub
         link: incsub.com
